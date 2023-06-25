@@ -9,3 +9,5 @@ JS
 一些原生 API 的手写，助力理解
 + 手写深拷贝
 + 手写 Promise 以及静态方法
++ 函数柯里化通用工具
++ to be continue
